@@ -30,4 +30,4 @@ The folder Boston_Airbnb_Vis contains the main visualizations that are present i
 Most homes tend to score on average above 80% (with the exception of homes in Cambridge). So to help narrow down what you'd might want to look for in a home to rent, it was dicsovered that homes with an average score above 90% seemed to include phrases like *comfortable*, *house*, and *recommend*, than those homes that scored on average below 90%.
 It is also important to note the average pricings for homes in specific neighborhoods. If you're not looking to spend too much money, you'd might want to stay away from homes in Harvard Square. If you want to find something that is reasoonably priced but not so ridiculously cheap, you could find homes in between the nighborhoods of the Leather District and North End (see chart below).
 
-<img src="https://github.com/andrew-alarcon17/Video_Games_Cleaning_and_Analyzing/blob/master/Video_Games_Charts/Top_10_Publishers_of_All_Time.png" width="500">
+<img src="https://github.com/andrew-alarcon17/Boston_Airbnb/blob/main/Boston_Airbnb_Vis/Average_Prices_by_Neighbourhood.png" width="500">
