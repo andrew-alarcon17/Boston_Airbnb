@@ -31,3 +31,6 @@ Most homes tend to score on average above 80% (with the exception of homes in Ca
 It is also important to note the average pricings for homes in specific neighborhoods. If you're not looking to spend too much money, you'd might want to stay away from homes in Harvard Square. If you want to find something that is reasoonably priced but not so ridiculously cheap, you could find homes in between the nighborhoods of the Leather District and North End (see chart below).
 
 <img src="https://github.com/andrew-alarcon17/Boston_Airbnb/blob/main/Boston_Airbnb_Vis/Average_Prices_by_Neighbourhood.png" width="500">
+
+
+Inspiration for Data Analysis and visualization came from this Kaggle notebook: https://www.kaggle.com/xiyuewang/data-analysis-on-boston-airbnb-data
