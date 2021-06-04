@@ -32,5 +32,8 @@ It is also important to note the average pricings for homes in specific neighbor
 
 <img src="https://github.com/andrew-alarcon17/Boston_Airbnb/blob/main/Boston_Airbnb_Vis/Average_Prices_by_Neighbourhood.png" width="500">
 
+## Acknowledgments:
 
-Inspiration for Data Analysis and visualization came from this Kaggle notebook: https://www.kaggle.com/xiyuewang/data-analysis-on-boston-airbnb-data
+The data source is from the [Kaggle Boston Airbnb dataset](https://www.kaggle.com/airbnb/boston)
+
+Inspiration for Data Analysis and visualization came from this [Kaggle notebook](https://www.kaggle.com/xiyuewang/data-analysis-on-boston-airbnb-data)
